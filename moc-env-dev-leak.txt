@@ -1,0 +1,31 @@
+http://git.moc.gov.kh/sambath.udomreachea/aas.git
+sambath.udomreachea
+
+glpat-rZFYyFJqZKGPT5_zD2FK
+
+PORT=8080
+NODE_ENV=production
+MYSQL_DEFAULT=mysql2://root:AYdGLHF5RA64y6WC99KYcAezu5aN2w9xtMEAhTccDSizufrMILq@10.88.8.54/attendance-production
+ORIGIN=['https://attendance.moc.gov.kh', 'http://attendance.moc.gov.kh', 'http://localhost:3000']
+
+PORT=8080
+MYSQL_DEFAULT=mysql://root:HFkQ1u6w8NKfgEczZUNQMXWnf8bfFLAfGSId3oogxqWJU9dhC@172.20.18.5/aas-production
+S1=https://s3.moc.gov.kh
+NODE_ENV=production
+MYSQL_SAS=mysql2://root:AYdGLHF5RA64y6WC99KYcAezu5aN2w9xtMEAhTccDSizufrMILq@10.88.8.54/moc-production-clone
+AUTHORIZATION=$2a$12$mbZDMo/pB/Eh0vIKhpOdsODiDY7XzePfuXRoHus/HKBhfM99aUTCS
+ORIGIN=['https://aas.moc.gov.kh', 'http://aas.moc.gov.kh', 'https://aas-officers.moc.gov.kh', 'http://aas-officers.moc.gov.kh', 'https://sas.moc.gov.kh', 'http://sas.moc.gov.kh']
+WEBHOOK_URL=https://uat-graph.moc.gov.kh/api
+ALGO=HS256
+SECRET_KEY=secret
+PLASGATE_API_SECRET=$5$rounds=535000$HKTBCJABT9ary26Z$.ttnD0053BMA3aNUMzG5HPqjVqlUvuZ7M.3JC46KnE9
+PLASGATE_API_PRIVATE=0V90gxULkt-X0d9ZD6Z0edVVvkD0kjIuwSBbFbs-VIzBZ6HKJXoouQ-ZoXKKAOu7tWzDzIG4q5MVghbfolEtcg
+NOMSA_API_URL=https://api.nomsa.gov.kh/v1/transactional/sms/send
+NOMSA_API_KEY=ministryofcommerce_v1_DJ9GnkFSIX2VNa3tEB8d+CwnH4RByN3JJk9ennj8824q
+NOMSA_SENDER_ID=nomsa-moc
+CRYPTO_SECRET_KEY=IsSeCreTmyKey
+
+
+
+
+
